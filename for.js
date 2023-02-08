@@ -13,7 +13,7 @@ for (var i = 26; i <= 75; i += 2) {
 // Use a for statement to log to the console a complete sentence stating the weather using the Array below:
 var weather_options = ["sunny", "snowy", "freezing", "partly cloudy", "drizzly"]
 for (var i = 0; i < weather_options.length; i++) {
-  console.log(`The weatherman reported this morning we will ${weather_options[i]} conditions!`)
+  console.log(`The weatherman reported today we will have ${weather_options[i]} conditions!`)
 }
 
 
@@ -30,4 +30,7 @@ for (var i = 0; i < words.length; i++) {
   // The recording doesn't have to be the first time you are solving the problem. 
   // Use technical vocabulary and explain each part to demonstrate your understanding! 
   // Share the link to your video in your small group channel.
+
+
+
 
